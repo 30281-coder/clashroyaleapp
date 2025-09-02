@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Knight",
+    "elixir": 3,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 150,
+    "hit_speed": 1.1,
+    "hp": 700
+  },
+  {
+    "name": "Archers",
+    "elixir": 3,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 90,
+    "hit_speed": 1.2,
+    "hp": 250
+  },
+  {
+    "name": "Mini P.E.K.K.A",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Troop",
+    "damage": 340,
+    "hit_speed": 1.8,
+    "hp": 800
+  },
+  {
+    "name": "Fireball",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Spell",
+    "damage": 572,
+    "hit_speed": 0,
+    "hp": 0
+  },
+  {
+    "name": "Tesla",
+    "elixir": 4,
+    "rarity": "Common",
+    "type": "Building",
+    "damage": 200,
+    "hit_speed": 0.8,
+    "hp": 500
+  },
+  {
+    "name": "Wizard",
+    "elixir": 5,
+    "rarity": "Epic",
+    "type": "Troop",
+    "damage": 210,
+    "hit_speed": 1.4,
+    "hp": 450
+  },
+  {
+    "name": "Giant",
+    "elixir": 5,
+    "rarity": "Rare",
+    "type": "Troop",
+    "damage": 100,
+    "hit_speed": 1.5,
+    "hp": 2000
+  },
+  {
+    "name": "Zap",
+    "elixir": 2,
+    "rarity": "Common",
+    "type": "Spell",
+    "damage": 159,
+    "hit_speed": 0,
+    "hp": 0
+  },
+  {
+    "name": "Goblins",
+    "elixir": 2,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 95,
+    "hit_speed": 1.1,
+    "hp": 150
+  },
+  {
+    "name": "Spear Goblins",
+    "elixir": 2,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 60,
+    "hit_speed": 1.7,
+    "hp": 120
+  },
+  {
+    "name": "Goblin Cage",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Building",
+    "damage": 0,
+    "hit_speed": 0,
+    "hp": 1000
+  },
+  {
+    "name": "Goblin Hut",
+    "elixir": 5,
+    "rarity": "Rare",
+    "type": "Building",
+    "damage": 0,
+    "hit_speed": 0,
+    "hp": 1100
+  },
+  {
+    "name": "Skeletons",
+    "elixir": 1,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 67,
+    "hit_speed": 1.0,
+    "hp": 67
+  },
+  {
+    "name": "Bomber",
+    "elixir": 3,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 180,
+    "hit_speed": 1.8,
+    "hp": 250
+  },
+  {
+    "name": "Tombstone",
+    "elixir": 3,
+    "rarity": "Rare",
+    "type": "Building",
+    "damage": 0,
+    "hit_speed": 0,
+    "hp": 450
+  },
+  {
+    "name": "Valkyrie",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Troop",
+    "damage": 120,
+    "hit_speed": 1.5,
+    "hp": 900
+  },
+  {
+    "name": "Cannon",
+    "elixir": 3,
+    "rarity": "Common",
+    "type": "Building",
+    "damage": 130,
+    "hit_speed": 0.8,
+    "hp": 800
+  },
+  {
+    "name": "Barbarians",
+    "elixir": 5,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 120,
+    "hit_speed": 1.5,
+    "hp": 300
+  },
+  {
+    "name": "Mega Minion",
+    "elixir": 3,
+    "rarity": "Rare",
+    "type": "Troop",
+    "damage": 190,
+    "hit_speed": 1.6,
+    "hp": 600
+  },
+  {
+    "name": "Battle Ram",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Troop",
+    "damage": 320,
+    "hit_speed": 1.6,
+    "hp": 900
+  },
+  {
+    "name": "Electro Spirit",
+    "elixir": 1,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 100,
+    "hit_speed": 1.0,
+    "hp": 90
+  },
+  {
+    "name": "Skeleton Dragons",
+    "elixir": 4,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 80,
+    "hit_speed": 1.9,
+    "hp": 440
+  },
+  {
+    "name": "Fire Spirit",
+    "elixir": 1,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 130,
+    "hit_speed": 1.0,
+    "hp": 90
+  },
+  {
+    "name": "Bomb Tower",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Building",
+    "damage": 200,
+    "hit_speed": 1.6,
+    "hp": 1200
+  },
+  {
+    "name": "Inferno Tower",
+    "elixir": 5,
+    "rarity": "Rare",
+    "type": "Building",
+    "damage": 30,
+    "hit_speed": 0.4,
+    "hp": 1000
+  },
+  {
+    "name": "Bats",
+    "elixir": 2,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 45,
+    "hit_speed": 1.1,
+    "hp": 67
+  },
+  {
+    "name": "Rocket",
+    "elixir": 6,
+    "rarity": "Rare",
+    "type": "Spell",
+    "damage": 1232,
+    "hit_speed": 0,
+    "hp": 0
+  },
+  {
+    "name": "Flying Machine",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Troop",
+    "damage": 142,
+    "hit_speed": 1.1,
+    "hp": 440
+  },
+  {
+    "name": "Hog Rider",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Troop",
+    "damage": 250,
+    "hit_speed": 1.6,
+    "hp": 800
+  },
+  {
+    "name": "Mortar",
+    "elixir": 4,
+    "rarity": "Common",
+    "type": "Building",
+    "damage": 230,
+    "hit_speed": 5.0,
+    "hp": 1000
+  },
+  {
+    "name": "Goblin Barrel",
+    "elixir": 3,
+    "rarity": "Epic",
+    "type": "Spell",
+    "damage": 0,
+    "hit_speed": 0,
+    "hp": 0
+  },
+  {
+    "name": "Guards",
+    "elixir": 3,
+    "rarity": "Epic",
+    "type": "Troop",
+    "damage": 90,
+    "hit_speed": 1.2,
+    "hp": 200
+  },
+  {
+    "name": "Skeleton Army",
+    "elixir": 3,
+    "rarity": "Epic",
+    "type": "Troop",
+    "damage": 50,
+    "hit_speed": 1.0,
+    "hp": 120
+  },
+  {
+    "name": "Baby Dragon",
+    "elixir": 4,
+    "rarity": "Epic",
+    "type": "Troop",
+    "damage": 130,
+    "hit_speed": 1.6,
+    "hp": 800
+  },
+  {
+    "name": "Witch",
+    "elixir": 5,
+    "rarity": "Epic",
+    "type": "Troop",
+    "damage": 120,
+    "hit_speed": 1.0,
+    "hp": 500
+  },
+  {
+    "name": "P.E.K.K.A",
+    "elixir": 7,
+    "rarity": "Epic",
+    "type": "Troop",
+    "damage": 510,
+    "hit_speed": 1.8,
+    "hp": 3000
+  },
+  {
+    "name": "Royal Recruits",
+    "elixir": 7,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 110,
+    "hit_speed": 1.1,
+    "hp": 350
+  },
+  {
+    "name": "Royal Giant",
+    "elixir": 6,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 180,
+    "hit_speed": 1.7,
+    "hp": 1800
+  },
+  {
+    "name": "Royal Hogs",
+    "elixir": 5,
+    "rarity": "Rare",
+    "type": "Troop",
+    "damage": 80,
+    "hit_speed": 1.1,
+    "hp": 400
+  },
+  {
+    "name": "Three Musketeers",
+    "elixir": 9,
+    "rarity": "Rare",
+    "type": "Troop",
+    "damage": 220,
+    "hit_speed": 1.1,
+    "hp": 340
+  },
+  {
+    "name": "Dark Prince",
+    "elixir": 4,
+    "rarity": "Epic",
+    "type": "Troop",
+    "damage": 190,
+    "hit_speed": 1.3,
+    "hp": 1200
+  },
+  {
+    "name": "Prince",
+    "elixir": 5,
+    "rarity": "Epic",
+    "type": "Troop",
+    "damage": 240,
+    "hit_speed": 1.4,
+    "hp": 1100
+  },
+  {
+    "name": "Balloon",
+    "elixir": 5,
+    "rarity": "Epic",
+    "type": "Troop",
+    "damage": 600,
+    "hit_speed": 3.0,
+    "hp": 1050
+  },
+  {
+    "name": "Giant Snowball",
+    "elixir": 2,
+    "rarity": "Common",
+    "type": "Spell",
+    "damage": 60,
+    "hit_speed": 0,
+    "hp": 0
+  },
+  {
+    "name": "Ice Spirit",
+    "elixir": 1,
+    "rarity": "Common",
+    "type": "Troop",
+    "damage": 90,
+    "hit_speed": 1.7,
+    "hp": 90
+  },
+  {
+    "name": "Battle Healer",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Troop",
+    "damage": 120,
+    "hit_speed": 1.5,
+    "hp": 1200
+  },
+  {
+    "name": "Ice Golem",
+    "elixir": 2,
+    "rarity": "Rare",
+    "type": "Troop",
+    "damage": 70,
+    "hit_speed": 2.5,
+    "hp": 1100
+  },
+  {
+    "name": "Freeze",
+    "elixir": 4,
+    "rarity": "Epic",
+    "type": "Spell",
+    "damage": 115,
+    "hit_speed": 0,
+    "hp": 0
+  },
+  {
+    "name": "Lightning",
+    "elixir": 6,
+    "rarity": "Epic",
+    "type": "Spell",
+    "damage": 864,
+    "hit_speed": 0,
+    "hp": 0
+  },
+  {
+    "name": "Giant Skeleton",
+    "elixir": 6,
+    "rarity": "Epic",
+    "type": "Troop",
+    "damage": 200,
+    "hit_speed": 1.5,
+    "hp": 3300
+  }
+]
